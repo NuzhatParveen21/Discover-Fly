@@ -123,3 +123,22 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+
+#confirmation-area{
+    display: none;
+}
+
+.discover-fly{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+.confirmation{
+    text-align: center;
+    margin-top: 20px;
+    padding: 40px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
